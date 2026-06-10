@@ -77,6 +77,25 @@
           "type": "txt"
         }
       ]
+    },
+    {
+      "id": "express-rest-api",
+      "title": "Intro to REST APIs with Express.js",
+      "description": "Build a simple CRUD API using Node.js and Express (routes, JSON bodies, status codes)",
+      "path": "assignments/express-rest-api",
+      "dueDate": "2026-06-17",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "app.js",
+          "type": "javascript"
+        },
+        {
+          "name": "Package Manifest",
+          "file": "package.json",
+          "type": "json"
+        }
+      ]
     }
   ]
 }

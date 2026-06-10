@@ -1,0 +1,12 @@
+{
+  "name": "express-rest-api-assignment",
+  "version": "1.0.0",
+  "description": "Starter app for Intro to REST APIs with Express.js assignment",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
